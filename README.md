@@ -20,7 +20,7 @@ Os projetos estão em ordem crescente de dificuldade. A coluna de status é atua
  
 | # | Projeto | Foco principal | Status |
 |:-:|---|---|:-:|
-| 1 | Controle de manutenção preventiva | Tabelas e validação de dados | 🟡 Planejado |
+| 1 | Controle de manutenção preventiva | Tabelas e validação de dados | 🟢 Concluído |
 | 2 | Cadastro e consulta de equipamentos | Busca e consulta | 🟡 Planejado |
 | 3 | Controle de estoque de peças | Somas condicionais | 🟡 Planejado |
 | 4 | Dashboard de consumo de energia | Tabelas dinâmicas | 🟡 Planejado |
