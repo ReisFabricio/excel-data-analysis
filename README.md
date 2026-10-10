@@ -70,9 +70,9 @@ O GitHub não exibe o conteúdo de arquivos .xlsx no navegador. Por isso, cada p
 
 🛠️ Ferramentas Utilizadas
 
-* **Microsoft Excel** (versão 2016 ou superior)
-* **Power Query** (Tratamento e transformação de dados)
-* **Git & GitHub** (Controle de versão e documentação)
+* Microsoft Excel (versão 2016 ou superior)
+* Power Query (Tratamento e transformação de dados)
+* Git & GitHub (Controle de versão e documentação)
 
 ---
 
