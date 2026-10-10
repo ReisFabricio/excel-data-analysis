@@ -52,7 +52,6 @@ Cada projeto possui sua própria pasta organizada da seguinte forma:
 XX-nome-do-projeto/
 ├── projeto.xlsx        # Planilha principal
 ├── README.md           # Objetivo, recursos usados, como usar e aprendizados
-├── prints/             # Imagens da planilha em funcionamento
 └── projeto.pdf         # Exportação para visualizar sem baixar o Excel
 
 O GitHub não exibe o conteúdo de arquivos .xlsx no navegador. Por isso, cada pasta inclui prints e um PDF para quem quiser ver o resultado rapidamente.
